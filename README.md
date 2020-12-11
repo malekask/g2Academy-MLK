@@ -1,12 +1,9 @@
-# React & Redux & Firebase - MarioPlan
+# React & Redux & Firebase - MLK|STUDENT
 
-This time a slightly larger project in which I used Redux and Firebase. The application is a simple page where you can add your blog posts.
-To log in you can add a new account or use `test@test.com` with passowrd `test123`.
+This time a slightly larger project in which I used Redux and Firebase. The application is a simple page where you can add your student posts.
+To log in you can add a new account or use `mlk@gmail.com` with passowrd `123456`.
 Feel free to add your posts :) 
 
-Link to working app: https://netninjamarioplan.firebaseapp.com/
-
-App made with the React Tutorials by The Net Ninja - https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 
 ## How to start
 
